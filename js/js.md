@@ -1,3 +1,3 @@
 # Javascript snippets
 
-- [RGBToHex](/RGBToHex.md)
+- [RGBToHex](RGBToHex.md)
